@@ -4,6 +4,7 @@ It has
 * Retrofit
 * Top Categorial bar
 * Pop up for detailed news
+* Horizontal Pager
 
 ![Screenshot (103)](https://github.com/Vedantgosling/News_Application/assets/153468680/5d2b2a6b-15a0-4530-94c7-cb70f9790575)
 
